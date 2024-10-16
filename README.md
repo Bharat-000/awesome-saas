@@ -27,6 +27,7 @@
 - **[MailChimp](https://mailchimp.com)** - A widely used email marketing and automation platform with powerful audience management tools.
 - **[ActiveCampaign](https://www.activecampaign.com)** - Integrated email marketing, automation, and CRM with a focus on small to medium-sized businesses.
 - **[Drip](https://www.drip.com)** - Marketing automation for e-commerce stores, providing customer journeys, segmentation, and email campaigns.
+- **[Super Proposal](https://www.superproposal.com)** - Proposal software designed to streamline the sales process by helping businesses create, send, and manage professional proposals efficiently.
 
 ## Customer Relationship Management (CRM)
 
